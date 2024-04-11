@@ -1,0 +1,26 @@
+#nav{
+    display: flex;
+    width: 93em;
+    background-color: crimson;
+    color: ghostwhite;
+    justify-content: space-between;
+}
+#ul{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 1em 4em;
+    justify-self: self-end;
+}
+li{
+    justify-content: space-around;
+    align-content: space-between;
+}
+#lops{
+    margin-left: 14em;
+    text-decoration: none;
+    
+}
+#lop:hover{
+    text-transform: uppercase;
+}

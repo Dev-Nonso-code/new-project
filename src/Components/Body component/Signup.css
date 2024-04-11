@@ -1,0 +1,29 @@
+#mains{
+    display: block;
+    height: 33em;
+    width: max-content;
+    background-color: darkkhaki;
+    text-align: center;
+    margin: auto;
+    padding: 1.5em 3em;
+}
+
+#btns{
+    margin: 4em 0px 0px 0px;
+}
+
+#h3{
+    margin-bottom: 1em;
+}
+
+marquee{
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+marquee:hover{
+    text-transform: lowercase;
+    text-shadow: 10px;
+    box-shadow: 8px;
+    text-decoration: dotted;
+}
